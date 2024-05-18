@@ -52,7 +52,22 @@ Vítejte na mém osobním webu
 <summary>Programování</summary>
 
 
-<a href="https://github.com/bedjan/">Github</a> <a href="https://github.com/bedjan/debian/blob/master/skripty/all.sh">Github_all</a> <a href="https://zdrojak.cz/">Zdrojak</a> <a href="https://www.itnetwork.cz/jak-zacit-programovat-tvorit-aplikace-programy">Jak začít programovat</a> <a href="https://www.startitup.cz/11-stranek-ktere-te-nauci-programovat-z-pohodli-domova/">Jak se naučit programovat</a> <a href="https://thinfi.com/">Thinfi</a> <a href="https://bitly.com/">Bitly</a> <a href="http://jdem.cz/">Jdem</a> <a href="https://www.protectedtext.com/">Protectedtext</a> <a href="https://dillinger.io/">Markdown editor</a> <a href="https://raw.githack.com/">Githack</a> <a href="https://tinyurl.com/app">Tinyurl</a> <a href="https://thinfi.com/">Link with password</a> <a href="https://bitly.com/">Link short</a> <a href="https://raw.githack.com/">Raw githack - dev</a> <a href="https://tinyurl.com/">Tinyurl</a> <a href="https://gist.io/">Gist.io i</a> <a href="https://uiwjs.github.io/react-md-editor/">Markdown editor</a>
+<a href="https://github.com/bedjan/">Github</a> <a href="https://github.com/bedjan/debian/blob/master/skripty/all.sh">Github_all</a>
+<a href="https://zdrojak.cz/">Zdrojak</a> <a href="https://www.itnetwork.cz/jak-zacit-programovat-tvorit-aplikace-programy">Jak začít programovat</a>
+<a href="https://www.startitup.cz/11-stranek-ktere-te-nauci-programovat-z-pohodli-domova/">Jak se naučit programovat</a>
+<a href="https://thinfi.com/">Thinfi</a> 
+<a href="https://bitly.com/">Bitly</a>
+<a href="http://jdem.cz/">Jdem</a>
+<a href="https://www.protectedtext.com/">Protectedtext</a> 
+<a href="https://dillinger.io/">Markdown editor</a> 
+<a href="https://raw.githack.com/">Githack</a> 
+<a href="https://tinyurl.com/app">Tinyurl</a>
+<a href="https://thinfi.com/">Link with password</a> 
+<a href="https://bitly.com/">Link short</a> 
+<a href="https://raw.githack.com/">Raw githack - dev</a>
+<a href="https://tinyurl.com/">Tinyurl</a> 
+<a href="https://gist.io/">Gist.io i</a> 
+<a href="https://uiwjs.github.io/react-md-editor/">Markdown editor</a>
 
 </details>
 
