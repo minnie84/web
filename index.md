@@ -17,6 +17,7 @@ První web - Martina Vohánková
 <a href="https://www.youtube.com/">Youtube</a>
 <a href="https://prehraj.to/">Prehraj.to</a> 
 <a href="https://www.csfd.cz/">Čsfd</a> 
+<a href=https://auth.openai.com/authorize?client_id=TdJIcbe16WoTHtN95nyywh5E4yOo6ItG&scope=openid%20email%20profile%20offline_access%20model.request%20model.read%20organization.read%20organization.write&response_type=code&redirect_uri=https%3A%2F%2Fchatgpt.com%2Fapi%2Fauth%2Fcallback%2Flogin-web&audience=https%3A%2F%2Fapi.openai.com%2Fv1&device_id=84b58b7d-7714-45cf-925e-beda41cbf308&prompt=login&state=bc9LUPfwIAxIJlBcvmZ7l6d-7dg--Oaior1PkiXWyhA&code_challenge=BLZFMrvV4fusrPym7wVs7MSTBInvzoyjQhPnwEGxQL8&code_challenge_method=S256/">chat gpt</a> 
 </details>
  
 <details close>
