@@ -7,17 +7,17 @@ První web - Martina Vohánková
 <a href="https://www.seznam.cz/">Seznam</a>
 <a href="https://www.toprecepty.cz/">Toprecepty</a>
 <a href="https://app.simplenote.com/">Simplenote</a>
- <a href="https://wttr.in/duchcov">Počasí</a>
- <a href="https://uiwjs.github.io/react-md-editor/">Markdown editor</a> 
- <a href="http://free-website-translation.com/">Web prekladac</a> 
- <a href="https://web.whatsapp.com/">Whatsapp</a>
- <a href="https://translate.google.cz/">Gtranslate</a>
- <a href="https://www.facebook.com/">Facebook</a>
- <a href="https://www.instagram.com/">Instagram</a>
- <a href="https://www.youtube.com/">Youtube</a>
- <a href="https://prehraj.to/">Prehraj.to</a> 
- <a href="https://www.csfd.cz/">Čsfd</a> 
- </details>
+<a href="https://wttr.in/duchcov">Počasí</a>
+<a href="https://uiwjs.github.io/react-md-editor/">Markdown editor</a> 
+<a href="http://free-website-translation.com/">Web prekladac</a> 
+<a href="https://web.whatsapp.com/">Whatsapp</a>
+<a href="https://translate.google.cz/">Gtranslate</a>
+<a href="https://www.facebook.com/">Facebook</a>
+<a href="https://www.instagram.com/">Instagram</a>
+<a href="https://www.youtube.com/">Youtube</a>
+<a href="https://prehraj.to/">Prehraj.to</a> 
+<a href="https://www.csfd.cz/">Čsfd</a> 
+</details>
  
 <details close>
 <summary>Recepty</summary>
@@ -84,7 +84,7 @@ První web - Martina Vohánková
 
 
 
- <details close>
+<details close>
 <summary>Github</summary>
  <a href="https://github.com/minnie84/web/blob/main/index.md">úprava obsahu stránky</a>
  </details>
@@ -109,7 +109,7 @@ První web - Martina Vohánková
 
 </details>
 
- <details close>
+<details close>
 <summary>IT</summary>
 
 
