@@ -7,6 +7,8 @@ Vítejte na mém osobním webu
 ### Recepty
 [Mraky](https://www.toprecepty.cz/recept/5085-mraky/)
 ### Oblíbené
+[Pěstování květin](https://www.youtube.com/@plantladyprague)
+[Seznam](https://www.seznam.cz/)
 [Toprecepty](https://www.toprecepty.cz/)
 [Simplenote](https://app.simplenote.com/)
  [Počasí](https://wttr.in/duchcov)
@@ -52,6 +54,47 @@ Vítejte na mém osobním webu
 [Github](https://github.com/bedjan/) [Github\_all](https://github.com/bedjan/debian/blob/master/skripty/all.sh) [Zdrojak](https://zdrojak.cz/) [Jak začít programovat](https://www.itnetwork.cz/jak-zacit-programovat-tvorit-aplikace-programy) [Jak se naučit programovat](https://www.startitup.cz/11-stranek-ktere-te-nauci-programovat-z-pohodli-domova/) [Thinfi](https://thinfi.com/) [Bitly](https://bitly.com/) [Jdem](http://jdem.cz/) [Protectedtext](https://www.protectedtext.com/) [Markdown editor](https://dillinger.io/) [Githack](https://raw.githack.com/) [Tinyurl](https://tinyurl.com/app) [Link with password](https://thinfi.com/) [Link short](https://bitly.com/) [Raw githack - dev](https://raw.githack.com/) [Tinyurl](https://tinyurl.com/) [Gist.io i](https://gist.io/) [Markdown editor](https://uiwjs.github.io/react-md-editor/)
 
 ### Github
+ [úprava obsahu stránky](https://github.com/minnie84/web/blob/main/index.md)
+ 
+ 
+ <details close>
+<summary>Úložiště</summary>
+</br>
+<a href="https://fastshare.cz"  target="_blank">Fastshare</a>&nbsp;&nbsp;<br />
+<a href="https://datoid.cz"  target="_blank">Datoid</a>&nbsp;&nbsp;<br />
+<a href="https://prehrajto.cz"  target="_blank">Prehrajto</a>&nbsp;&nbsp;<br />
+<a href="https://zalohuj.si"  target="_blank">Zalohuj.si</a>&nbsp;&nbsp;<br />
+<a href="https://sdilej.cz"  target="_blank">Sdílej</a>&nbsp;&nbsp;<br />
+<a href="https://edisk.cz"  target="_blank">Edisk</a>&nbsp;&nbsp;<br />
+<a href="https://kukaj.to"  target="_blank">Kukaj</a>&nbsp;&nbsp;<br />
+<a href="https://webshare.cz/"  target="_blank">Webshare</a>&nbsp;&nbsp;<br />
+<a href="https://dafilms.cz"  target="_blank">Dafilms</a>&nbsp;&nbsp;<br />
+<a href="https://dfiles.eu/"  target="_blank">Dfiles.eu</a>&nbsp;&nbsp;<br />
+<a href="https://multcloud.com"  target="_blank">Multcloud.com</a>&nbsp;&nbsp;<br />
+<a href="https://dropbox.com"  target="_blank">Dropbox</a>&nbsp;&nbsp;<br />
+<a href="https://idrive.com"  target="_blank">Idrive</a>&nbsp;&nbsp;<br />
+<a href="https://onecloud.com"  target="_blank">Onecloud</a>&nbsp;&nbsp;<br />
 
-[^]: 
-[^]: 
+</details>
+
+</br>
+
+
+ <details close>
+<summary>IT</summary>
+</br>
+
+<a href="https://docs.google.com/spreadsheets/d/1d5wQRV8CgZAq5DwNVWny5UGvSOvb54ADlsRKIix4MEg/edit?pli=1#gid=0"  target="_blank">Osnova</a>&nbsp;&nbsp;<br />
+<a href="https://www.itnetwork.cz/html-css/webove-stranky"  target="_blank">1. Webové stránky krok za krokem</a>&nbsp;&nbsp;<br />
+<a href="https://www.itnetwork.cz/java/zaklady"  target="_blank">2. Základní konstrukce jazyka Java</a>&nbsp;&nbsp;<br />
+<a href="https://www.itnetwork.cz/java/oop"  target="_blank">3. Objektově orientované programování v Javě</a>&nbsp;&nbsp;<br />
+<a href="https://www.itnetwork.cz/java/kolekce-a-proudy"  target="_blank">4. Kolekce a proudy v Javě</a>&nbsp;&nbsp;<br />
+<a href="https://www.itnetwork.cz/mysql"  target="_blank">5. MySQL/MariaDB databáze krok za krokem</a>&nbsp;&nbsp;<br />
+<a href="https://www.itnetwork.cz/javascript/zaklady"  target="_blank">6. Základní konstrukce jazyka JavaScript</a>&nbsp;&nbsp;<br />
+<a href="https://www.itnetwork.cz/java/spring-boot/zaklady"  target="_blank">7. Základy Spring Boot frameworku pro Javu</a>&nbsp;&nbsp;<br />
+<a href="https://www.itnetwork.cz/java/spring-boot/blog"  target="_blank">8. Databáze a Hibernate ve Spring Boot</a>&nbsp;&nbsp;<br />
+<a href="https://www.itnetwork.cz/javascript/react/zaklady"  target="_blank">9. Základy React</a>&nbsp;&nbsp;<br />
+<a href="https://www.itnetwork.cz/html-css/bootstrap/kurz"  target="_blank">10. Kompletní kurz CSS frameworku Bootstrap</a>&nbsp;&nbsp;<br />
+
+</details>
+</br>
