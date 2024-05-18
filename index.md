@@ -50,12 +50,12 @@ Vítejte na mém osobním webu
 
 <details close>
 <summary>Programování</summary>
-</br>
+
 
 <a href="https://github.com/bedjan/">Github</a> <a href="https://github.com/bedjan/debian/blob/master/skripty/all.sh">Github_all</a> <a href="https://zdrojak.cz/">Zdrojak</a> <a href="https://www.itnetwork.cz/jak-zacit-programovat-tvorit-aplikace-programy">Jak začít programovat</a> <a href="https://www.startitup.cz/11-stranek-ktere-te-nauci-programovat-z-pohodli-domova/">Jak se naučit programovat</a> <a href="https://thinfi.com/">Thinfi</a> <a href="https://bitly.com/">Bitly</a> <a href="http://jdem.cz/">Jdem</a> <a href="https://www.protectedtext.com/">Protectedtext</a> <a href="https://dillinger.io/">Markdown editor</a> <a href="https://raw.githack.com/">Githack</a> <a href="https://tinyurl.com/app">Tinyurl</a> <a href="https://thinfi.com/">Link with password</a> <a href="https://bitly.com/">Link short</a> <a href="https://raw.githack.com/">Raw githack - dev</a> <a href="https://tinyurl.com/">Tinyurl</a> <a href="https://gist.io/">Gist.io i</a> <a href="https://uiwjs.github.io/react-md-editor/">Markdown editor</a>
 
 </details>
-</br>
+
 
 
 ### Github
@@ -64,7 +64,7 @@ Vítejte na mém osobním webu
  
  <details close>
 <summary>Úložiště</summary>
-</br>
+
 <a href="https://fastshare.cz"  target="_blank">Fastshare</a>&nbsp;&nbsp;<br />
 <a href="https://datoid.cz"  target="_blank">Datoid</a>&nbsp;&nbsp;<br />
 <a href="https://prehrajto.cz"  target="_blank">Prehrajto</a>&nbsp;&nbsp;<br />
@@ -82,12 +82,9 @@ Vítejte na mém osobním webu
 
 </details>
 
-</br>
-
-
  <details close>
 <summary>IT</summary>
-</br>
+
 
 <a href="https://docs.google.com/spreadsheets/d/1d5wQRV8CgZAq5DwNVWny5UGvSOvb54ADlsRKIix4MEg/edit?pli=1#gid=0"  target="_blank">Osnova</a>&nbsp;&nbsp;<br />
 <a href="https://www.itnetwork.cz/html-css/webove-stranky"  target="_blank">1. Webové stránky krok za krokem</a>&nbsp;&nbsp;<br />
@@ -102,4 +99,3 @@ Vítejte na mém osobním webu
 <a href="https://www.itnetwork.cz/html-css/bootstrap/kurz"  target="_blank">10. Kompletní kurz CSS frameworku Bootstrap</a>&nbsp;&nbsp;<br />
 
 </details>
-</br>
