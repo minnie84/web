@@ -1,51 +1,62 @@
-# První web - Martina Vohánková 
-
-Vítejte na mém osobním webu
+První web - Martina Vohánková 
 ---------------------------
-### Recepty
-[Mraky](https://www.toprecepty.cz/recept/5085-mraky/)
-### Oblíbené
-[Pěstování květin](https://www.youtube.com/@plantladyprague)
-[Seznam](https://www.seznam.cz/)
-[Toprecepty](https://www.toprecepty.cz/)
-[Simplenote](https://app.simplenote.com/)
- [Počasí](https://wttr.in/duchcov)
- [Markdown editor](https://uiwjs.github.io/react-md-editor/) 
- [Web prekladac](http://free-website-translation.com/) 
- [Whatsapp](https://web.whatsapp.com/)
- [Gtranslate](https://translate.google.cz/)
- [Facebook](https://www.facebook.com/)
- [Instagram](https://www.instagram.com/)
- [Youtube](https://www.youtube.com/)
- [Prehraj.to](https://prehraj.to/) 
- [Čsfd](https://www.csfd.cz/) 
 
-
-### Download
-
-[Facebook download 1](https://snapsave.app/cs) [Facebook download 2](https://fdown.net/) [Youtube video download](https://ytop1.com/en9) [Youtube to mp3](https://ytop1.com/en87) [Tik tok download](https://ssstik.io/en) [Instagram download](https://igram.io/) [Youtube subtitle download](https://downsub.com/) [Twitter download](https://downloadatwittervideo.com/)
-
-
-
-### Google
-
-[Gtranslate](https://translate.google.cz/)
-[Tasks](https://calendar.google.com/calendar/u/0/r?opentasks=1) 
-[Youtube](https://www.youtube.com/) 
-[Gkeep](https://keep.google.com/#home) 
-[Gmail](https://mail.google.com/mail/u/0/#inbox) 
-[Gdisk](https://drive.google.com/drive/) 
-[Gdocs](https://docs.google.com/document/u/0/) 
-[Gphotos](https://photos.google.com/?hl=cs&pli=1)
-[Gsites](https://sites.google.com/site/bedjansite/) 
-[Gtakeout](https://takeout.google.com/settings/takeout?pli=1)
+<details open>
+<summary>Oblíbené</summary>
+<a href="https://www.youtube.com/@plantladyprague">Pěstování květin</a>
+<a href="https://www.seznam.cz/">Seznam</a>
+<a href="https://www.toprecepty.cz/">Toprecepty</a>
+<a href="https://app.simplenote.com/">Simplenote</a>
+ <a href="https://wttr.in/duchcov">Počasí</a>
+ <a href="https://uiwjs.github.io/react-md-editor/">Markdown editor</a> 
+ <a href="http://free-website-translation.com/">Web prekladac</a> 
+ <a href="https://web.whatsapp.com/">Whatsapp</a>
+ <a href="https://translate.google.cz/">Gtranslate</a>
+ <a href="https://www.facebook.com/">Facebook</a>
+ <a href="https://www.instagram.com/">Instagram</a>
+ <a href="https://www.youtube.com/">Youtube</a>
+ <a href="https://prehraj.to/">Prehraj.to</a> 
+ <a href="https://www.csfd.cz/">Čsfd</a> 
+ </details>
+ 
+<details close>
+<summary>Recepty</summary>
+<a href="https://www.toprecepty.cz/recept/5085-mraky/">Mraky</a>
+</details>
 
 
 
-### Úprava textu
 
-[Psani textu online 1](https://write-box.appspot.com/) [Psani textu online 22](https://www.editpad.org/) [markdown editor online](https://dillinger.io/) [Odstranění diakritiky češtiny](http://petrfaltus.net/petr-faltus-konverze-textu-odstraneni-cestiny-z-textu.php) [Přidání diakritiky češtiny](https://nlp.fi.muni.cz/cz_accent/)
 
+<details close>
+<summary>Download</summary> 
+<a href="https://snapsave.app/cs">Facebook download 1</a> <a href="https://fdown.net/">Facebook download 2</a> <a href="https://ytop1.com/en9">Youtube video download</a> <a href="https://ytop1.com/en87">Youtube to mp3</a> <a href="https://ssstik.io/en">Tik tok download</a> <a href="https://igram.io/">Instagram download</a> <a href="https://downsub.com/">Youtube subtitle download</a> <a href="https://downloadatwittervideo.com/">Twitter download</a>
+</details>
+
+
+
+<details close>
+<summary>Google</summary> 
+
+<a href="https://translate.google.cz/">Gtranslate</a>
+<a href="https://calendar.google.com/calendar/u/0/r?opentasks=1">Tasks</a> 
+<a href="https://www.youtube.com/">Youtube</a> 
+<a href="https://keep.google.com/#home">Gkeep</a> 
+<a href="https://mail.google.com/mail/u/0/#inbox">Gmail</a> 
+<a href="https://drive.google.com/drive/">Gdisk</a> 
+<a href="https://docs.google.com/document/u/0/">Gdocs</a> 
+<a href="https://photos.google.com/?hl=cs&amp;pli=1">Gphotos</a>
+<a href="https://sites.google.com/site/bedjansite/">Gsites</a> 
+<a href="https://takeout.google.com/settings/takeout?pli=1">Gtakeout</a>
+</details>
+
+
+
+<details close>
+<summary>Úprava textu</summary>  
+
+<a href="https://write-box.appspot.com/">Psani textu online 1</a> <a href="https://www.editpad.org/">Psani textu online 22</a> <a href="https://dillinger.io/">markdown editor online</a> <a href="http://petrfaltus.net/petr-faltus-konverze-textu-odstraneni-cestiny-z-textu.php">Odstranění diakritiky češtiny</a> <a href="https://nlp.fi.muni.cz/cz_accent/">Přidání diakritiky češtiny</a>
+</details>
 
 
 <details close>
@@ -73,9 +84,10 @@ Vítejte na mém osobním webu
 
 
 
-### Github
- [úprava obsahu stránky](https://github.com/minnie84/web/blob/main/index.md)
- 
+ <details open>
+<summary>Github</summary>
+ <a href="https://github.com/minnie84/web/blob/main/index.md">úprava obsahu stránky</a>
+ </details>
  
  <details close>
 <summary>Úložiště</summary>
