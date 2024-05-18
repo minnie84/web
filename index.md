@@ -84,7 +84,7 @@ První web - Martina Vohánková
 
 
 
- <details open>
+ <details close>
 <summary>Github</summary>
  <a href="https://github.com/minnie84/web/blob/main/index.md">úprava obsahu stránky</a>
  </details>
