@@ -1,6 +1,4 @@
-
-
-#První web - Martina Vohánková 
+# První web - Martina Vohánková 
 
 Vítejte na mém osobním webu
 ---------------------------
@@ -54,7 +52,8 @@ Vítejte na mém osobním webu
 <summary>Programování</summary>
 </br>
 
-[Github](https://github.com/bedjan/) [Github\_all](https://github.com/bedjan/debian/blob/master/skripty/all.sh) [Zdrojak](https://zdrojak.cz/) [Jak začít programovat](https://www.itnetwork.cz/jak-zacit-programovat-tvorit-aplikace-programy) [Jak se naučit programovat](https://www.startitup.cz/11-stranek-ktere-te-nauci-programovat-z-pohodli-domova/) [Thinfi](https://thinfi.com/) [Bitly](https://bitly.com/) [Jdem](http://jdem.cz/) [Protectedtext](https://www.protectedtext.com/) [Markdown editor](https://dillinger.io/) [Githack](https://raw.githack.com/) [Tinyurl](https://tinyurl.com/app) [Link with password](https://thinfi.com/) [Link short](https://bitly.com/) [Raw githack - dev](https://raw.githack.com/) [Tinyurl](https://tinyurl.com/) [Gist.io i](https://gist.io/) [Markdown editor](https://uiwjs.github.io/react-md-editor/)
+<a href="https://github.com/bedjan/">Github</a> <a href="https://github.com/bedjan/debian/blob/master/skripty/all.sh">Github_all</a> <a href="https://zdrojak.cz/">Zdrojak</a> <a href="https://www.itnetwork.cz/jak-zacit-programovat-tvorit-aplikace-programy">Jak začít programovat</a> <a href="https://www.startitup.cz/11-stranek-ktere-te-nauci-programovat-z-pohodli-domova/">Jak se naučit programovat</a> <a href="https://thinfi.com/">Thinfi</a> <a href="https://bitly.com/">Bitly</a> <a href="http://jdem.cz/">Jdem</a> <a href="https://www.protectedtext.com/">Protectedtext</a> <a href="https://dillinger.io/">Markdown editor</a> <a href="https://raw.githack.com/">Githack</a> <a href="https://tinyurl.com/app">Tinyurl</a> <a href="https://thinfi.com/">Link with password</a> <a href="https://bitly.com/">Link short</a> <a href="https://raw.githack.com/">Raw githack - dev</a> <a href="https://tinyurl.com/">Tinyurl</a> <a href="https://gist.io/">Gist.io i</a> <a href="https://uiwjs.github.io/react-md-editor/">Markdown editor</a>
+
 </details>
 </br>
 
